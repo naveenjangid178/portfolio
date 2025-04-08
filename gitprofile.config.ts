@@ -41,28 +41,28 @@ const CONFIG = {
           link: 'https://aquaregiafest.com',
         },
         {
+          title: 'Elite-Media',
+          description:
+            'A YouTube clone built with React.js and RapidAPI, allowing users to search, watch, and explore videos seamlessly. Features include video playback, category filtering, and a responsive UI for a smooth viewing experience.',
+          imageUrl:
+            'https://www.analyticssteps.com/backend/media/thumbnail/6392372/9074555_1591250182_youtube.jpg',
+          link: 'https://elite-media-tau.vercel.app/',
+        },
+        {
+          title: 'GPT-UI',
+          description:
+            'A sleek, modern UI for interacting with GPT-3, featuring responsive design, interactive elements, and customizable settings for an optimal experience.',
+          imageUrl:
+            '/gpt3.png',
+          link: 'https://gpt3-ui-pearl.vercel.app/',
+        },
+        {
           title: 'IDP (Intelligent Document Processing)',
           description:
             'Developed an Intelligent Document Processing (IDP) solution to extract text from salary slips and automatically generate structured data tables, integrating OpenAI and Azure APIs to provide real-time data verification and validation for enhanced accuracy.',
           imageUrl:
             'https://cdn.prod.website-files.com/64be86eaa29fa71f24b00685/64be86eaa29fa71f24b00e8a_62221eee49ff1727b7b96eeb_A%2520Showcase%2520of%2520IDP%2520Use%2520Cases%2520Main%2520Image.jpeg',
           link: '',
-        },
-        {
-          title: 'youtube backend',
-          description:
-            'YouTube backend project with user authentication, video management, comments, playlists.',
-          imageUrl:
-            'https://www.analyticssteps.com/backend/media/thumbnail/6392372/9074555_1591250182_youtube.jpg',
-          link: 'https://github.com/naveenjangid178/youtube-backend',
-        },
-        {
-          title: 'no-code-forms',
-          description:
-            'A powerful form builder that allows users to create, customize, and manage forms without writing any code. Built with a scalable backend and a user-friendly interface.',
-          imageUrl:
-            'https://www.yoroflow.com/img/workflowManagement/workflow_features_images/no-code-form-designer-section-image.png',
-          link: 'https://github.com/naveenjangid178/no-code-forms',
         },
       ],
     },
