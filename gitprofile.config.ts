@@ -146,7 +146,7 @@ const CONFIG = {
       institution: 'University of Rajasthan',
       degree: 'BCA',
       from: '2022',
-      to: 'Present',
+      to: '2025',
     },
   ],
   publications: [
